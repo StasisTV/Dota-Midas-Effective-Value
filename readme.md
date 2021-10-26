@@ -1,6 +1,6 @@
 # Midas EV Calculator
 
-This Python script calculates the effective value from midasing creeps then sort and displays the result in a bar graph
+This Python script calculates the effective value from using midas on creeps then sorts and displays the result in a bar graph
 
 Editable variables at the top of the script
 
